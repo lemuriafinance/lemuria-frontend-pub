@@ -23,7 +23,7 @@ export const milkomedaPools = [
     stratType: 'StratMultiLP',
     withdrawalFee: '0%',
     addLiquidityUrl:
-      'https://app.stellaswap.com/exchange/add/0x922D641a426DcFFaeF11680e5358F34d97d112E1/0xAcc15dC74880C9944775448304B263D191c6077F',
+      'https://www.milkyswap.exchange/add/0xAE83571000aF4499798d1e3b0fA0070EB3A3E3F9/0x063A5E4cD5e15ac66ea47134Eb60e6b30A51B2bf',
   },
   ];
   
