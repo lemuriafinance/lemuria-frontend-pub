@@ -1,5 +1,5 @@
 export const milkomedaPools = [
-       {
+      {
         id: 'milkyswap-multiwbtc-multiweth',
         name: 'Milkyswap multiWBTC multiWETH',
         token: 'multiWBTC-multiWETH milkyLP',
@@ -8,8 +8,8 @@ export const milkomedaPools = [
         tokenDecimals: 18,
         tokenDescriptionUrl: '#',
         earnedToken: 'lVAULT-multiWBTC-multiWETH-Milky',
-        earnedTokenAddress: '0x8eC44CDc1F1Ed1492891dEA81538bA5C3d2927df',
-        earnContractAddress: '0x8eC44CDc1F1Ed1492891dEA81538bA5C3d2927df',
+        earnedTokenAddress: '0xab15AE25aC457292Ca9A954121b9faAF6C97C6A0',
+        earnContractAddress: '0xab15AE25aC457292Ca9A954121b9faAF6C97C6A0',
         pricePerFullShare: 1,
         tvl: 0,
         oracle: 'lps',
