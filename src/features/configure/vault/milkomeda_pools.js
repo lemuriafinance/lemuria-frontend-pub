@@ -292,7 +292,7 @@ export const milkomedaPools = [
       'https://www.milkyswap.exchange/add/0x332730a4F6E03D9C55829435f10360E13cfA41Ff/milkADA',
   },
   { 
-    id: 'milkyswap-multiavax-wada',
+    id: 'milkyswap-multiavax-wada-boosted',
     name: 'Milkyswap multiAVAX WADA',
     token: 'multiAVAX-WADA milkyLP',
     tokenDescription: 'Milkyswap',
@@ -305,7 +305,7 @@ export const milkomedaPools = [
     pricePerFullShare: 1,
     tvl: 0,
     oracle: 'lps',
-    oracleId: 'milkyswap-multiavax-wada',
+    oracleId: 'milkyswap-multiavax-wada-boosted',
     oraclePrice: 0,
     depositsPaused: false,
     status: 'eol',
