@@ -425,5 +425,30 @@ export const milkomedaPools = [
     addLiquidityUrl:
       'https://milkomeda.muesliswap.com/add/0x6aB6d61428fde76768D7b45D8BFeec19c6eF91A8/0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D',
   },
-  
+  {
+    id: 'muesliswap-multiwbtc-wada',
+    name: 'Muesliswap multiWBTC WADA',
+    token: 'multiWBTC-WADA muesliLP',
+    tokenDescription: 'Muesliswap',
+    tokenAddress: '0xaDbaBAf06c98785f09482F41Cf862edBE7889160',
+    tokenDecimals: 18,
+    tokenDescriptionUrl: '#',
+    earnedToken: 'lVAULT-multiWBTC-WADA-Muesli',
+    earnedTokenAddress: '0xE0D7374CF158b1219aB9Cd00933e0cFf2ace29b5',
+    earnContractAddress: '0xE0D7374CF158b1219aB9Cd00933e0cFf2ace29b5',
+    pricePerFullShare: 1,
+    tvl: 0,
+    oracle: 'lps',
+    oracleId: 'muesliswap-multiwbtc-wada',
+    oraclePrice: 0,
+    depositsPaused: false,
+    status: 'active',
+    platform: 'Muesliswap',
+    assets: ['MULTIWBTC', 'WADA'],
+    risks: ['COMPLEXITY_LOW', 'NEW_STRAT', 'IL_LOW', 'MCAP_LARGE', 'AUDIT', 'CONTRACTS_VERIFIED'],
+    stratType: 'StratMultiLP',
+    withdrawalFee: '0%',
+    addLiquidityUrl:
+      'https://milkomeda.muesliswap.com/add/0x6aB6d61428fde76768D7b45D8BFeec19c6eF91A8/0xAE83571000aF4499798d1e3b0fA0070EB3A3E3F9',
+  },
   ];
